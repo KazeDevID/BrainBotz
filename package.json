@@ -1,0 +1,33 @@
+{
+  "name": "BrainBotz",
+  "version": "1.0.0",
+  "description": "A simple bot whatsapp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"nope\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazeDevID/BrainBotz.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "KazeDevID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazeDevID/BrainBotz/issues"
+  },
+  "homepage": "https://github.com/KazeDevID/BrainBotz#readme",
+  "dependencies": {
+    "@bochilteam/scraper": "^4.0.22-alpha.0",
+    "whasapi": "^1.0.4",
+    "moment-timezone": "^0.5.40",
+    "util": "^0.12.5",
+    "wa-sticker-maker": "^1.0.1",
+    "openai": "^3.1.0" 
+  }
+}
